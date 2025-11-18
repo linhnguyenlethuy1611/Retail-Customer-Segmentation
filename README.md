@@ -4,7 +4,7 @@ Retail Customer Segmentation Using Machine Learning (KMeans + Behavioral Feature
 
 ## 1. Overview
 
-This project performs customer segmentation using real transaction data, combining:
+This project performs customer segmentation using transaction data (downloaded Kaggle.com), combining:
 
 - Basket behavior
 
